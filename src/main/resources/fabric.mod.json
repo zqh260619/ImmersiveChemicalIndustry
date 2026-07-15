@@ -3,9 +3,9 @@
 	"id": "immersive-chemical-industry",
 	"version": "${version}",
 	"name": "Immersive Chemical Industry",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A Fabric mod about immersive chemical industry for Minecraft 1.21.1.",
 	"authors": [
-		"Me!"
+		"zqh260619"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
