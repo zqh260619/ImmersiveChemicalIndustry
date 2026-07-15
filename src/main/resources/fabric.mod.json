@@ -8,8 +8,9 @@
 		"zqh260619"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/zqh260619/ImmersiveChemicalIndustry",
+		"sources": "https://github.com/zqh260619/ImmersiveChemicalIndustry",
+		"issues": "https://github.com/zqh260619/ImmersiveChemicalIndustry/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/immersive-chemical-industry/icon.png",
@@ -20,6 +21,9 @@
 		],
 		"fabric-datagen": [
 			"io.github.zqh260619.immersivechemicalindustry.ImmersiveChemicalIndustryDataGenerator"
+		],
+		"client": [
+			"io.github.zqh260619.immersivechemicalindustry.ImmersiveChemicalIndustryClient"
 		]
 	},
 	"mixins": [
