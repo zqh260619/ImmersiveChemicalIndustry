@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "immersive-chemical-industry",
+	"id": "immersivechemicalindustry",
 	"version": "${version}",
 	"name": "Immersive Chemical Industry",
 	"description": "A Fabric mod about immersive chemical industry for Minecraft 1.21.1.",
@@ -13,7 +13,7 @@
 		"issues": "https://github.com/zqh260619/ImmersiveChemicalIndustry/issues"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/immersive-chemical-industry/icon.png",
+	"icon": "assets/immersivechemicalindustry/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -27,7 +27,7 @@
 		]
 	},
 	"mixins": [
-		"immersive-chemical-industry.mixins.json"
+		"immersivechemicalindustry.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.19.3",

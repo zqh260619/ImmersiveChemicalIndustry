@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "immersivechemicalindustry:item/flint_hand_axe"
+  }
+}
