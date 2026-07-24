@@ -1,6 +1,7 @@
 package io.github.zqh260619.immersivechemicalindustry.item;
 
 import io.github.zqh260619.immersivechemicalindustry.ImmersiveChemicalIndustry;
+import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -13,6 +14,10 @@ public class ModItems {
 
     private static Item registerItems(String id,Item item){
         return Registry.register(Registries.ITEM,Identifier.of(ImmersiveChemicalIndustry.MOD_ID,id),item);
+    }
+
+    private static void addItemToIG(FabricItemGroupEntries fabricItemGroupEntries){
+        fabricItemGroupEntries.add(FLINT_HAND_AXE);
     }
 
     public static void registerModItems(){

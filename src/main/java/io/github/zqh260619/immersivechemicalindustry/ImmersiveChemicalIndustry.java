@@ -1,5 +1,6 @@
 package io.github.zqh260619.immersivechemicalindustry;
 
+import io.github.zqh260619.immersivechemicalindustry.item.ModItemGroups;
 import io.github.zqh260619.immersivechemicalindustry.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -22,6 +23,7 @@ public class ImmersiveChemicalIndustry implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 		ModItems.registerModItems();
+		ModItemGroups.registerModItemGroups();
 		LOGGER.info("Hello Fabric world!");
 	}
 

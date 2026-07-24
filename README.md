@@ -3,7 +3,7 @@
 [![Mod Loader: Fabric](https://img.shields.io/badge/modloader-Fabric-1976d2?style=flat-square&logo=data:image/png;base64,PHN2ZyB4bWxucz...)](https://fabricmc.net/)
 [![Minecraft Version](https://img.shields.io/badge/minecraft-1.21.1-62b47a?style=flat-square)](https://www.minecraft.net/)
 
-一个基于 **Fabric** 的 Minecraft 模组，致力于**尽可能真实地还原现实世界的化学工业流程**。
+一个基于 **Fabric** 的 Minecraft 模组，致力于**尽可能真实地还原现实世界的化学工业流程**。~~Re：从零开始的化学工业生活~~
 
 ## 💡 理念
 
