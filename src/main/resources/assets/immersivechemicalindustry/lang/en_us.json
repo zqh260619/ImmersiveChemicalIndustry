@@ -1,4 +1,6 @@
 {
   "itemGroup.ici_tools": "ICI Tools",
-  "item.immersivechemicalindustry.flint_hand_axe": "Flint Hand Axe"
+  "itemGroup.ici_ingredients": "ICI Ingredients",
+  "item.immersivechemicalindustry.flint_hand_axe": "Flint Hand Axe",
+  "item.immersivechemicalindustry.thin_rope": "Thin Rope"
 }

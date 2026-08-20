@@ -10,6 +10,7 @@ import net.minecraft.util.Identifier;
 public class ModItems {
 
     public static final Item FLINT_HAND_AXE=registerItems("flint_hand_axe",new Item(new Item.Settings()));
+    public static final Item THIN_ROPE=registerItems("thin_rope",new Item(new Item.Settings()));
 
     private static Item registerItems(String id,Item item){
         return Registry.register(Registries.ITEM,Identifier.of(ImmersiveChemicalIndustry.MOD_ID,id),item);
@@ -17,6 +18,7 @@ public class ModItems {
 
     private static void addItemToIG(FabricItemGroupEntries fabricItemGroupEntries){
         fabricItemGroupEntries.add(FLINT_HAND_AXE);
+        fabricItemGroupEntries.add(THIN_ROPE);
     }
 
     public static void registerModItems(){

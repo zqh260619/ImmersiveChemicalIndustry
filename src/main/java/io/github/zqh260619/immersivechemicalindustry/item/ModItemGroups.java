@@ -16,6 +16,12 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.FLINT_HAND_AXE);
                     }).build());
+    public static final ItemGroup ICI_INGREDIENTS=Registry.register(Registries.ITEM_GROUP,Identifier.of(ImmersiveChemicalIndustry.MOD_ID,"ici_ingredients"),
+            ItemGroup.create(null,-1).displayName(Text.translatable("itemGroup.ici_ingredients"))
+                    .icon(()->new ItemStack(ModItems.THIN_ROPE))
+                    .entries((displayContext, entries) -> {
+                        entries.add(ModItems.THIN_ROPE);
+                    }).build());
     public static void registerModItemGroups(){
         ImmersiveChemicalIndustry.LOGGER.info("Registering item groups...");
     }
