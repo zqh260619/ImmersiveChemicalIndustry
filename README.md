@@ -2,6 +2,7 @@
 
 [![Mod Loader: Fabric](https://img.shields.io/badge/modloader-Fabric-1976d2?style=flat-square&logo=data:image/png;base64,PHN2ZyB4bWxucz...)](https://fabricmc.net/)
 [![Minecraft Version](https://img.shields.io/badge/minecraft-1.21.1-62b47a?style=flat-square)](https://www.minecraft.net/)
+[![License: Apache--2.0](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](LICENSE)
 
 一个基于 **Fabric** 的 Minecraft 模组，致力于**尽可能真实地还原现实世界的化学工业流程**。~~Re：从零开始的化学工业生活~~
 
@@ -33,4 +34,4 @@
 
 ## 📜 许可证
 
-本项目使用 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) 许可证。你可以自由地学习、修改和分发。
+本项目使用 [Apache License 2.0](LICENSE) 许可证，版权声明见 [NOTICE](NOTICE)。你可以自由地学习、修改和分发，但再分发时需保留版权声明与许可证文本，并在修改过的文件中注明改动。

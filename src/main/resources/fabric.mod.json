@@ -12,7 +12,7 @@
 		"sources": "https://github.com/zqh260619/ImmersiveChemicalIndustry",
 		"issues": "https://github.com/zqh260619/ImmersiveChemicalIndustry/issues"
 	},
-	"license": "CC0-1.0",
+	"license": "Apache-2.0",
 	"icon": "assets/immersivechemicalindustry/icon.png",
 	"environment": "*",
 	"entrypoints": {
