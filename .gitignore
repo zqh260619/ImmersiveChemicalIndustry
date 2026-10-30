@@ -42,3 +42,9 @@ replay_*.log
 # ai agents
 
 AGENTS.md
+
+# 论文原文与全文提取文本（版权原因一律不入库；仅本机保存）
+
+*.pdf
+/papers/
+/pdf_works/
