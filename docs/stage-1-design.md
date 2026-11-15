@@ -294,3 +294,7 @@
 - 高锡青铜硬度-成分关系（硬度随锡含量上升，约 22% Sn 附近见顶、脆性增加）：[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1044580309001843)。
 - 草木灰作为玻璃助熔剂的历史工艺（中世纪欧洲以山毛榉灰为碱源）：[玻璃工艺史资料](https://npu.portadesign.cz/uop/liberec/soubory-ke-stazeni/sklarstvi_blok_aj_el.pdf)。
 - 物理常数（Cu 1085 °C、Sn 232 °C、乙醇 78.3 °C、共沸 95.6%）为标准值，不再逐一列文献。
+
+---
+
+> 本文档随 Immersive Chemical Industry 项目以 [Apache License 2.0](../LICENSE) 发布。

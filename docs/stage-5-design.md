@@ -293,3 +293,7 @@
 - 空分双塔（高压塔/低压塔耦合、氩侧线）：[专利说明](https://patentimages.storage.googleapis.com/dd/6c/20/302bf5404222c1/US20110023540A1.pdf)。
 - 硫酸盐法造纸（1879 年专利、NaOH + Na₂S 蒸煮）：[ScienceDirect 主题页](https://www.sciencedirect.com/topics/immunology-and-microbiology/pulping)。
 - 不锈钢成分、氯碱槽压/电流效率、转炉/水泥/电石参数为行业标准值。
+
+---
+
+> 本文档随 Immersive Chemical Industry 项目以 [Apache License 2.0](../LICENSE) 发布。

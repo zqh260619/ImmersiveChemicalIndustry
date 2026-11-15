@@ -305,3 +305,7 @@ NH₃ + CO₂ → 氨基甲酸铵（110 atm、160 °C）→ 尿素（180–200 �
 - 尿素（Bosch-Meiser，1922）：氨基甲酸铵 110 atm/160 °C、ΔH −117 kJ/mol，转化不完全需循环：[Wikipedia](https://en.m.wikipedia.org/wiki/Bosch%E2%80%93Meiser_urea_process)。
 - 煤焦油馏分与沥青（450 °C 不挥发残渣）：[ScienceDirect 主题页](https://www.sciencedirect.com/topics/materials-science/coal-tar)。
 - 蒸汽机压力/效率、电解精炼槽压、炸药配比为行业标准值。
+
+---
+
+> 本文档随 Immersive Chemical Industry 项目以 [Apache License 2.0](../LICENSE) 发布。

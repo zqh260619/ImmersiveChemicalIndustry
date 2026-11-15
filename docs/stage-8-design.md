@@ -282,3 +282,7 @@ RIE（CF₄/SF₆/Cl₂，13.56 MHz）各向异性刻蚀；LPCVD/PECVD/溅射/�
 - 化学放大光刻胶（PAG、248/193 nm）：[专利说明](https://patents.google.com/patent/US7608381)。
 - RCA 清洗（SC-1 NH₄OH:H₂O₂:H₂O 1:1:5、75–80 °C；SC-2；HF 漂洗）：[工艺说明](https://www.benchchem.com/de/product/B080908/docs)。
 - 光刻波长/分辨率、UPW 指标、洁净室分级、自动化标准为行业通用值。
+
+---
+
+> 本文档随 Immersive Chemical Industry 项目以 [Apache License 2.0](../LICENSE) 发布。

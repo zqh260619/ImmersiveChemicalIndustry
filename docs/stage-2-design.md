@@ -281,3 +281,7 @@
 - 木炭高炉渣碱度 CaO/SiO₂ = 0.7–0.9、石灰石约 90–110 kg/t 生铁：[UNIDO 炼铁资料](https://downloads.unido.org/ot/46/92/4692236/00001-10000_09366.pdf)。
 - 硝石（salnitro）的历史制备与用途：[Treccani](https://www.treccani.it/enciclopedia/salnitro_(Enciclopedia-Italiana)/)。
 - 铁/钢/生铁碳含量、渗碳与淬火温度、黑火药配比为行业标准值，不再逐一列文献。
+
+---
+
+> 本文档随 Immersive Chemical Industry 项目以 [Apache License 2.0](../LICENSE) 发布。

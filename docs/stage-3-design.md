@@ -313,3 +313,7 @@ NaCl + H₂SO₄ 反应釜（150 °C 首段；500–600 °C 二段）→ HCl 气
 - 索尔维法反应式与碳酸化/煅烧步骤：[White Rose 论文](https://etheses.whiterose.ac.uk/id/eprint/36623/1/Thesis%20Manuscript%20WR%20%28AJKN%29.pdf)。
 - 硼硅玻璃组成（Pyrex 7740 / Duran）：[Saarland 大学论文](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/22991/1/Untersuchungen_zur_Herstellung_von_SinterglAsern_aus_nanoskaligem_Borosilicatglaspulver_Wendel.pdf)。
 - 盐酸/硝酸共沸点、汞的沸点/凝固点、760 mmHg 为标准值。
+
+---
+
+> 本文档随 Immersive Chemical Industry 项目以 [Apache License 2.0](../LICENSE) 发布。

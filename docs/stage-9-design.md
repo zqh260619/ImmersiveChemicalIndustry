@@ -303,3 +303,7 @@ La₂O₃ + NiO 前驱体 → 高压合成（14 GPa）→ 原位四探针（R-T�
 - La₃Ni₂O₇：2023 Nature、Tc 80 K、14.0–43.5 GPa、高压浮区单晶：[中科院文献情报](http://stm.las.ac.cn/STMonitor/home/bianyi_recordshow.htm?id=84668)、[APS 报告](https://meetings-archive.aps.org/smt/2025/mar-f13/1/)。
 - YBCO 氧退火 450 °C/3 atm O₂、Tc ~90 K 与迈斯纳悬浮：[研究资料](https://journals.indexcopernicus.com/api/file/viewByFileId/2566946)。
 - 铁基超导 SmFeAsOF（2008）、钕铁硼（1984）、金刚石 HPHT 参数为领域标准值。
+
+---
+
+> 本文档随 Immersive Chemical Industry 项目以 [Apache License 2.0](../LICENSE) 发布。

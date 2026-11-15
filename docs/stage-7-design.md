@@ -280,3 +280,7 @@ HEPA/正压/风淋/粒子计数 → 洁净区（A/B/C/D）→ 无菌操作验证
 - Sharpless 环氧化（Ti(OiPr)₄/DET/TBHP，高对映选择性）：[JoVE](https://staging.jove.com/science-education/12108/sharpless-epoxidation-allylic-alcohols-to-epoxides)。
 - 600 MHz NMR 中心磁场 14.1 T：[专利说明](https://patents.google.com/patent/US7336077)。
 - 药物合成温度/熔点、仪器参数、GMP 级别为行业标准值。
+
+---
+
+> 本文档随 Immersive Chemical Industry 项目以 [Apache License 2.0](../LICENSE) 发布。

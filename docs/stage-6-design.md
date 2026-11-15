@@ -310,3 +310,7 @@ LDPE：乙烯 + 引发剂 → 150–300 MPa/150–300 °C → 高压分离/造�
 - LDPE 高压聚合：2000–3500 bar、管式/釜式、引发剂：[ScienceDirect](https://www.sciencedirect.com/topics/nursing-and-health-professions/tubular-reactor)、[ASME 论文](https://asmedigitalcollection.asme.org/PVP/proceedings-pdf/PVP2025/89077/V004T05A010/7551152/v004t05a010-pvp2025-154651.pdf)。
 - PET 缩聚（225 °C 酯化、280 °C 真空缩聚、锑/钛催化）：[专利说明](https://patentimages.storage.googleapis.com/30/ac/b0/ca9cb41bb1aad9/US20150141614A1.pdf)。
 - 其他工艺参数（PVC 悬浮、尼龙 66、SBR、甲醇/乙酸、MTO）为行业标准值。
+
+---
+
+> 本文档随 Immersive Chemical Industry 项目以 [Apache License 2.0](../LICENSE) 发布。
